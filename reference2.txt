@@ -1,0 +1,2 @@
+It is the second reference text.
+It also contains some unique content for testing plagiarism detection.
